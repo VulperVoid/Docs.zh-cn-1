@@ -17,7 +17,7 @@ ms.lasthandoff: 03/22/2018
 ---
 # <a name="enable-cross-origin-requests-cors-in-aspnet-core"></a>启用 ASP.NET Core 中的跨源请求 (CORS)
 
-通过[Mike Wasson](https://github.com/mikewasson)， [Shayne 贝叶](https://twitter.com/spboyer)，和[Tom Dykstra](https://github.com/tdykstra)
+作者：[Mike Wasson](https://github.com/mikewasson)， [Shayne Boyer](https://twitter.com/spboyer)，[Tom Dykstra](https://github.com/tdykstra)
 
 浏览器安全阻止到另一个域进行 AJAX 请求 web 页。 此限制称为*同源策略*，，可防止恶意站点读取另一个站点中的敏感数据。 但是，有时你可能想要允许对你的 web API 进行的跨源请求其他站点。
 
